@@ -3,94 +3,94 @@
   "data": [
     {
       "topic": "bloom",
-      "list_filter": [
+      "list": [
         {
-          "filter_name": "1",
+          "name": "1",
           "topic": "bloom"
         },
         {
-          "filter_name": "2",
+          "name": "2",
           "topic": "bloom"
         },
         {
-          "filter_name": "3",
+          "name": "3",
           "topic": "bloom"
         },
         {
-          "filter_name": "4",
+          "name": "4",
           "topic": "bloom"
         },
         {
-          "filter_name": "5",
+          "name": "5",
           "topic": "bloom"
         },
         {
-          "filter_name": "6",
+          "name": "6",
           "topic": "bloom"
         },
         {
-          "filter_name": "7",
+          "name": "7",
           "topic": "bloom"
         },
         {
-          "filter_name": "8",
+          "name": "8",
           "topic": "bloom"
         },
         {
-          "filter_name": "9",
+          "name": "9",
           "topic": "bloom"
         },
         {
-          "filter_name": "10",
+          "name": "10",
           "topic": "bloom"
         },
         {
-          "filter_name": "11",
+          "name": "11",
           "topic": "bloom"
         },
         {
-          "filter_name": "12",
+          "name": "12",
           "topic": "bloom"
         }
       ]
     },
     {
       "topic": "Cork_Board_full",
-      "list_filter": [
+      "list": [
         {
-          "filter_name": "1",
+          "name": "1",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "2",
+          "name": "2",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "3",
+          "name": "3",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "4",
+          "name": "4",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "5",
+          "name": "5",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "6",
+          "name": "6",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "7",
+          "name": "7",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "8",
+          "name": "8",
           "topic": "Cork_Board_full"
         },
         {
-          "filter_name": "9",
+          "name": "9",
           "topic": "Cork_Board_full"
         }
       ]
