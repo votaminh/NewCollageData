@@ -1,0 +1,41 @@
+{
+  "type_data": "poster_for_u",
+  "data": [
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000045",
+      "type": 2
+    },
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000046",
+      "type": 2
+    },
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000048",
+      "type": 2
+    },
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000049",
+      "type": 2
+    },
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000050",
+      "type": 2
+    },
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000052",
+      "type": 2
+    }
+  ]
+}
