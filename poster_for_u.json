@@ -2,6 +2,36 @@
   "type_data": "poster_for_u",
   "data": [
     {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000046",
+      "type": 2
+    },
+    {
+      "count_photo": 2,
+      "iap": false,
+      "name": "3002000001",
+      "type": 2
+    },
+    {
+      "count_photo": 5,
+      "iap": false,
+      "name": "3015000045",
+      "type": 2
+    },
+    {
+      "count_photo": 1,
+      "iap": false,
+      "name": "3002000045",
+      "type": 2
+    },
+    {
+      "count_photo": 6,
+      "iap": false,
+      "name": "3002000016",
+      "type": 2
+    },
+    {
       "count_photo": 4,
       "iap": false,
       "name": "3014000130",
