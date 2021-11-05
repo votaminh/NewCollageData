@@ -3890,7 +3890,7 @@
   "data_collage" : [
      {
       "topic": "photo",
-      "list": [
+      "list_poster": [
         {
           "iap": false,
           "name": "id_1636087968234",
