@@ -3886,5 +3886,20 @@
         }
       ]
     }
-  ]
+  ],
+  "data_collage" : [
+     {
+      "topic": "photo",
+      "list": [
+        {
+          "iap": false,
+          "name": "id_1636087968234"
+        },
+        {
+          "iap": false,
+          "name": "id_1636087968234"
+        }
+      ]
+    }
+    ]
 }
