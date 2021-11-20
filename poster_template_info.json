@@ -3977,6 +3977,36 @@
           "type": 3
         }
       ]
+    },
+     {
+      "topic": "Christmas",
+      "list_poster": [
+        {
+          "iap": false,
+          "name": "id_1637423694840",
+          "type": 3
+        },
+        {
+          "iap": false,
+          "name": "id_1637424296676",
+          "type": 3
+        },
+        {
+          "iap": false,
+          "name": "id_1637424778313",
+          "type": 3
+        },
+        {
+          "iap": true,
+          "name": "id_1637425327935",
+          "type": 3
+        },
+        {
+          "iap": true,
+          "name": "id_1637425988816",
+          "type": 3
+        }
+      ]
     }
   ]
 }
