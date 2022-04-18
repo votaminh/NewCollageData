@@ -3,6 +3,7 @@
   "data": [
     {
       "topic": "bloom",
+      "iap": true,
       "list": [
         {
           "name": "1",
@@ -97,6 +98,7 @@
     },
     {
       "topic": "dot",
+      "iap": true,
       "list": [
         {
           "name": "1",
