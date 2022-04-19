@@ -60,6 +60,7 @@
     },
     {
       "topic": "baby_diary",
+      "iap" : true,
       "list": [
         {
           "name": "1",
@@ -509,6 +510,7 @@
     },
     {
       "topic": "fun_lines",
+      "iap" : true,
       "list": [
         {
           "name": "1",
@@ -1277,6 +1279,7 @@
     },
     {
       "topic": "greetings",
+      "iap" : true,
       "list": [
         {
           "name": "1",
@@ -1827,6 +1830,7 @@
     },
     {
       "topic": "brave",
+      "iap" : true,
       "list": [
         {
           "name": "1",
@@ -2248,6 +2252,7 @@
     },
     {
       "topic": "expressions",
+      "iap" : true,
       "list": [
         {
           "name": "1",
