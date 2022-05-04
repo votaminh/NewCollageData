@@ -5259,66 +5259,6 @@
       ]
     },
     {
-      "topic": "template",
-      "list": [
-        {
-          "name": "1",
-          "topic": "eid al adha",
-          "iap" : true
-        },
-        {
-          "name": "2",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "3",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "4",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "5",
-          "topic": "eid al adha",
-          "iap" : true
-        },
-        {
-          "name": "6",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "7",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "8",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "9",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "10",
-          "topic": "eid al adha",
-          "iap" : true
-        },
-        {
-          "name": "11",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "12",
-          "topic": "eid al adha"
-        },
-        {
-          "name": "13",
-          "topic": "eid al adha"
-        }
-      ]
-    },
-    {
       "topic": "line",
       "list": [
         {
