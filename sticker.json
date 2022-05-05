@@ -2661,6 +2661,7 @@
         }
       ]
     },
+    
     {
       "topic": "template",
       "list": [
@@ -2670,52 +2671,83 @@
           "topic": "template"
         },
         {
-          "name": "love001.PNG",
+          "name": "fashion001.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love002.PNG",
+          "name": "fashion0010.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love003.PNG",
+          "name": "fashion0011.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love004.PNG",
+          "name": "fashion0012.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love005.PNG",
+          "name": "fashion0013.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love006.PNG",
+          "name": "fashion0014.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love007.PNG",
+          "name": "fashion0015.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love008.PNG",
+          "name": "fashion002.PNG",
           "iap": true,
           "topic": "template"
         },
         {
-          "name": "love009.PNG",
+          "name": "fashion003.PNG",
+          "iap": true,
+          "topic": "template"
+        },
+        {
+          "name": "fashion004.PNG",
+          "iap": true,
+          "topic": "template"
+        },
+        {
+          "name": "fashion005.PNG",
+          "iap": true,
+          "topic": "template"
+        },
+        {
+          "name": "fashion006.PNG",
+          "iap": true,
+          "topic": "template"
+        },
+        {
+          "name": "fashion007.PNG",
+          "iap": true,
+          "topic": "template"
+        },
+        {
+          "name": "fashion008.PNG",
+          "iap": true,
+          "topic": "template"
+        },
+        {
+          "name": "fashion009.PNG",
           "iap": true,
           "topic": "template"
         }
       ],
       "isNew": true
     }
+  
   ]
 }
